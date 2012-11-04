@@ -12,12 +12,12 @@ Directly extract and plot stochastic common trends from the cointegration system
 Miscellaneous
 --------------------
 
-Version:  0.6-2
-Depends:	R (≥ 2.10)
-Imports:	methods, MASS, urca
-Published:	2012-08-18
-Author:	Fan Yang
-Maintainer:	Fan Yang <yfno1 at msn.com>
-License:	GPL (≥ 2)
-In views:	TimeSeries
-CRAN checks:	CommonTrend results
+* Version:  0.6-2
+* Depends:	R (≥ 2.10)
+* Imports:	methods, MASS, urca
+* Published:	2012-08-18
+* Author:	Fan Yang
+* Maintainer:	Fan Yang <yfno1 at msn.com>
+* License:	GPL (≥ 2)
+* In views:	TimeSeries
+* CRAN checks:	CommonTrend results
